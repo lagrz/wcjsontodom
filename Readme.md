@@ -4,6 +4,12 @@ Converts json object or array to a dom tree
 
 ## Usage
 
+Clone the repo or user bower:
+
+```shell
+bower install lagrz/wcjsontodom
+```
+
 Include the javascript file:
 
 ```html
