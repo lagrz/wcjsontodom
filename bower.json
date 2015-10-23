@@ -1,0 +1,23 @@
+{
+  "name": "wcjsontodom",
+  "version": "0.0.1",
+  "authors": [
+    "lagrz <roarbort@gmail.com>"
+  ],
+  "description": "Converts json to dom tree",
+  "main": "wcJsonToDom.js",
+  "keywords": [
+    "json",
+    "dom",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
