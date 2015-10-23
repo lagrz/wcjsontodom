@@ -6,20 +6,26 @@ Converts json object or array to a dom tree
 
 Include the javascript file:
 
-`<script src="wcJsonToDom.js"></script>`
+```html
+<script src="wcJsonToDom.js"></script>
+```
 
 Include the module in your angular app:
 
-`angular.module('app', ['wcJsonToDom'])`
+```html
+angular.module('app', ['wcJsonToDom'])
+```
 
 Include the directive in your template:
 
-`<wcjsontodom json="json.data"></wcjsontodom>`
+```html
+<wcjsontodom json="json.data"></wcjsontodom>
+```
 
 
 Full sample:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
