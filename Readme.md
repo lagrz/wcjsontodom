@@ -29,7 +29,7 @@ Include the directive in your template:
 ```
 
 
-Full sample:
+Full example:
 
 ```html
 <!DOCTYPE html>
