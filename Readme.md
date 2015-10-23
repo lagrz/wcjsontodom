@@ -12,7 +12,7 @@ Include the javascript file:
 
 Include the module in your angular app:
 
-```html
+```javascript
 angular.module('app', ['wcJsonToDom'])
 ```
 
